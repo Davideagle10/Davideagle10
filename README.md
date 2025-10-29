@@ -7,7 +7,7 @@
 
 <br><br>
 
-- :man_technologist: I’m a `Software Engineer` specialized in **Cloud Computing and DevOps** practices.  
+- :man_technologist: I’m a `Software Engineer` specialized in `Cloud Computing and DevOps` practices.  
 - :cloud: Experienced in designing and automating infrastructures with **AWS**, **Terraform**, **Ansible**, **Kubernetes**, and **CI/CD pipelines**.  
 - :hammer_and_wrench: Passionate about building **secure, scalable, and automated multi-cloud architectures** applying Infrastructure as Code and modern DevOps practices.  
 - :books: Continuously learning and mastering advanced areas like **Cloud Security**, **Automation**, and **High Availability** systems.  
